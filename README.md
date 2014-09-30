@@ -1,5 +1,24 @@
 % proposal for a ebola hackathon: "Plan A"
 
+# context
+
+## goals
+
+The 2014
+Ebola virus epidemic in West Africa
+has the potential to kill 1.2 M (ian lipkin, pers. comm.).
+We believe that the impact of the outbreak could
+be greatly lessened by a set of technological and
+information-based solutions. These need to be
+cost effective, deliverable in the time scale of 1-2 months,
+and relevant to the realistic constraints set
+by polics, public health, and virology.
+
+## attendees
+
+Undergraduates, graduate students, postdocs,
+research scientists, and faculty.
+
 # structure
 
 The structure is two weekends/events/sessisons:
