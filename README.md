@@ -39,7 +39,7 @@ macro problem and a list of potential challenges (see Appendix).
 
 Forum is followed by a chance for people to echange ideas over food.
 
-## workshops (likely Friday, Oct 3)
+## workshops (likely Thursday or possibly Friday, Oct 3)
 
 (Possibly on subsequent day) Workshops are given
 on more specific topics, e.g., use of mobile devices+data,
