@@ -17,7 +17,22 @@ by polics, public health, and virology.
 ## attendees
 
 Undergraduates, graduate students, postdocs,
-research scientists, and faculty.
+research scientists, and faculty. "Designers" from
+many disciplines will be needed, given the
+diversity of biological, technological, information,
+transportation, and other challenges which come
+together to make this outbreak so challenging.
+Skills needed are including but not limited to:
+
+- biology
+- civil engineering
+- virology
+- physics
+- mechanical engineering
+- CS
+- urban policy
+- health and public policy
+
 
 # structure
 
