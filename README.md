@@ -120,3 +120,5 @@ might be useful.
 - Virus people.
 
 - People who understand political constraints.
+
+- Point of Care devices
