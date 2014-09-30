@@ -2,15 +2,57 @@
 
 # structure
 
+The structure is two weekends/events/sessisons:
+a "design weekend" (not necessarily literally a weekend)
+and an "implemntation weekend" (not necessarily literally a weekend).
+
 # logistics for design weekend
 
 ## forum
 
+Design weekend opens with a forum, since getting people
+together encourages generation of critical and crucial questions.
+We propose that an expert present a deck of slides,
+supported by any other media useful, to outline the
+macro problem and a list of potential challenges (see Appendix).
+
+## food and team formation
+
+Forum is followed by a chance for people to echange ideas over food.
+
+## workshops
+
+(Possibly on subsequent day) Workshops are given
+on more specific topics, e.g., use of mobile devices+data,
+to gather experts and idea-generators and implementers around
+more focused topics
+
 ## iteration with experts
+
+Crucial is saving time by shooting down unworkable ideas
+to iterate, refine, and improve towards constraint satisfaction
+and meeting design critera. To that end a body of experts
+must be made available to evaluate short pitches (ideally 2-5 minutes;
+shorter if idea is clearly in need of existential improvement)
+from many groups. 
+
+E.g., these could be at the top of every hour, to alternate
+between short pitches and deeper discusion.
+
+This also facilitates rapid review
 
 ## rapid review
 
+The review process, a way fof quantifying plausibility,
+could be as simple as how many experts endorse this idea?
+
 ## final review
+
+At the end of design weekend, ideas with most expert approval
+are presented to community and judged (including
+"community favorite") for suitability of success. Hard and
+soft resources (i.e., time and money) may be allocated by the Dean
+for most successful ideas.
 
 # logistics for implementation weekend
 
@@ -19,11 +61,32 @@ by ideas created in the design weekend.
 
 # necessary planning
 
+- In advance, we must find questions which should be
+answered in the Forum
+
 # kickstarting ideas
+
+- As soon as possible, drafts of the forum presentation
+should be distributed electronically, e.g., by github,
+google drive, or slideshare. They should not be emailed,
+and we should not wait until the draft is finalized.
+
+- Idea generators should be encouraged to start
+now, gather electronically, and have ideas vetted electronically,
+either via googleform or survey platforms such as 
+http://www.allourideas.org/
 
 ## information to the students
 
+- Slides and media to be shared electonically, broadly, and asap
+
 ## information from the students/collaboration
+
+- Ideas to be generated and gathered e.g., google form or survey tools,
+as above
+
+- durign event, hackathon platforms such as challengepost.com or hackerleague.com
+might be useful.
 
 # appendix: current projects outlined
 
@@ -33,4 +96,8 @@ by ideas created in the design weekend.
 
 # appendix: topics for which experts are needed
 
-- Soam
+- Foam people.
+
+- Virus people.
+
+- People who understand political constraints.
