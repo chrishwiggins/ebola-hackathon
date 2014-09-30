@@ -61,6 +61,12 @@ on more specific topics, e.g., use of mobile devices+data,
 to gather experts and idea-generators and implementers around
 more focused topics
 
+### example workshop:
+
+*information systems to address Ebola crisis*
+
+Real time monitoring status of staffing, available beds, supplies using mobile phone platforms to enhance health infrastructure and information systems.  One could think about leveraging recent gains in m-health.  
+
 ## iteration with experts (likely Friday, Oct 3)
 
 Crucial is saving time by shooting down unworkable ideas
