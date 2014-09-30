@@ -123,5 +123,5 @@ might be useful.
 # appendix: potential experts
 
 - Ian Lipkin
-- Steve
+- Steve, aka "other person #1"
 - other person #2
