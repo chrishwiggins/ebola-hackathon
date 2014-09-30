@@ -27,7 +27,7 @@ and an "implemntation weekend" (not necessarily literally a weekend).
 
 # logistics for design weekend
 
-## forum
+## forum (likely evening of Thurs 2 October)
 
 Design weekend opens with a forum, since getting people
 together encourages generation of critical and crucial questions.
@@ -35,18 +35,18 @@ We propose that an expert present a deck of slides,
 supported by any other media useful, to outline the
 macro problem and a list of potential challenges (see Appendix).
 
-## food and team formation
+## food and team formation (likely Thu-Friday, Oct 2-3)
 
 Forum is followed by a chance for people to echange ideas over food.
 
-## workshops
+## workshops (likely Friday, Oct 3)
 
 (Possibly on subsequent day) Workshops are given
 on more specific topics, e.g., use of mobile devices+data,
 to gather experts and idea-generators and implementers around
 more focused topics
 
-## iteration with experts
+## iteration with experts (likely Friday, Oct 3)
 
 Crucial is saving time by shooting down unworkable ideas
 to iterate, refine, and improve towards constraint satisfaction
@@ -116,9 +116,12 @@ might be useful.
 # appendix: topics for which experts are needed
 
 - Foam people.
-
 - Virus people.
-
 - People who understand political constraints.
-
 - Point of Care devices
+
+# appendix: potential experts
+
+- Ian Lipkin
+- Steve
+- other person #2
