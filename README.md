@@ -79,11 +79,11 @@ from many groups.
 E.g., these could be at the top of every hour, to alternate
 between short pitches and deeper discusion.
 
-This also facilitates rapid review
+This also facilitates rapid review.
 
 ## rapid review
 
-The review process, a way fof quantifying plausibility,
+The review process, a way of quantifying plausibility,
 could be as simple as how many experts endorse this idea?
 
 ## final review
@@ -140,9 +140,12 @@ might be useful.
 - Virus people.
 - People who understand political constraints.
 - Point of Care devices
+- Urgent need for body bags that include fail-safe absorbent material within plastic. they currently assemble both components in the field. when absorbent material is in short supply they not do so. as bodies decompose they can explode dispersing infectious material over staff.
 
 # appendix: potential experts
 
 - Ian Lipkin
 - Steve, aka "other person #1"
 - other person #2
+- Armand at MSF. 
+
